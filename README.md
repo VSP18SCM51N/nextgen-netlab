@@ -1,19 +1,6 @@
 
-# nextgen-netlab
+# NextGen Network Lab - Portfolio
 
-This is the official portfolio and training site of Dr. Vaishali Nagpure:
-"Empowering the next generation of network professionals through hands-on labs, automation, and AI-driven observability."
+This site is designed and maintained by Dr. Vaishali Nagpure to showcase advanced labs and training material in network automation and observability.
 
-## 🔧 Features
-- Case-based network automation labs (Ansible, ACI, FTD, DNAC)
-- Django-powered admin panel with portal features
-- Self-healing network logic integration
-- PCAP analysis with packet capture integration
-- GitHub + CI/CD (Vercel Ready)
-
-## 🚀 Get Started
-1. Fork this repo
-2. Connect it to Vercel
-3. Configure your domain: `nextgen-netlab.tech`
-
-Maintained with ❤️ by the NextGenNetLab community.
+Deployed via GitHub → Vercel → Custom domain: nextgen-netlab.tech
